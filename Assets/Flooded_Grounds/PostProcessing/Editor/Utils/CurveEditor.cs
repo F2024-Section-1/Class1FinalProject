@@ -582,7 +582,8 @@ namespace UnityEditor.PostProcessing
             }
 
             // Delete selected key(s)
-            if (e.type == EventType.KeyDown && (e.keyCode == KeyCode.Delete || e.keyCode == KeyCode.Backspace))
+            if (e.type == EventType.KeyDown
+                && (e.keyCode == KeyCode.Delete || e.keyCode == KeyCode.Backspace))
             {
                 if (m_SelectedKeyframeIndex != -1 && m_SelectedCurve != null)
                 {
