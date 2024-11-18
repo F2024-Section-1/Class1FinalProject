@@ -21,10 +21,10 @@ public class DoorInteraction : MonoBehaviour
     void Update()
     {
         // Check if the player is in range and presses the interaction key
-        if (playerInRange && Input.GetKeyDown(KeyCode.E)) // "E" key to interact
-        {
-            ToggleDoor();
-        }
+        //if (Input.GetKeyDown(KeyCode.E)) // "E" key to interact
+        //{
+        //    ToggleDoor();
+        //}
 
         // Smoothly rotate the door open or closed
         if (isOpen)
