@@ -1,0 +1,24 @@
+Documentation 
+1. Roads: 
+https://assetstore.unity.com/search#q=easyroads%203d 
+2. Plantation along the way: 
+https://assetstore.unity.com/packages/tools/terrain/vegetation-spawner-177192 
+3. Towers along the roads 
+https://assetstore.unity.com/packages/3d/environments/towers-pbr-pack-95705 
+4. Swamp bridge for roads 
+https://assetstore.unity.com/packages/3d/props/exterior/swamp-bridge-71515 
+5. Texture grass 
+https://assetstore.unity.com/packages/2d/textures-materials/glass/stylized-grass-texture-153153Z 
+
+6. Grass and Flowers 
+https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flowers-pack-1-171 00 
+7. Rock Mountain 
+https://assetstore.unity.com/packages/3d/environments/landscapes/hill-rock-mountain-terrain-22 889 
+8. Flooded grounds 
+https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529 
+9. Trees 
+https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076 
+10. Low poly Road Pack
+https://assetstore.unity.com/packages/3d/environments/roadways/low-poly-road-pack-created-wi th-fastmesh-asset-293643
+
+Garage Assets: https://assetstore.unity.com/packages/3d/props/interior/simple-garage-197251 https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
